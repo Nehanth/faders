@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key><string>Faders</string>
+    <key>CFBundleDisplayName</key><string>Faders</string>
+    <key>CFBundleIdentifier</key><string>dev.faders.Faders</string>
+    <key>CFBundleExecutable</key><string>Faders</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>0.1.0</string>
+    <key>CFBundleVersion</key><string>1</string>
+    <key>LSMinimumSystemVersion</key><string>14.4</string>
+    <key>LSUIElement</key><true/>
+    <key>NSAudioCaptureUsageDescription</key>
+    <string>Faders needs to capture each app's audio so it can turn it up, down, or mute it individually.</string>
+</dict>
+</plist>
